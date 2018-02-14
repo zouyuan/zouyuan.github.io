@@ -8,10 +8,5 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
-
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
-
-## title
+ 我是yuan
+ 一个人的命运啊，固然要靠自己的努力，但是也得考虑历史的进程

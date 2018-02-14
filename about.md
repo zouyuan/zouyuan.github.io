@@ -8,5 +8,4 @@ titles:
 key: page-about
 ---
 
- 我是yuan
  一个人的命运啊，固然要靠自己的努力，但是也得考虑历史的进程

@@ -54,7 +54,7 @@ author:
   # linkedin:  #your Linkedin username
 
 ## TOC
-toc:
+toc:h3
   # selectors: 'h1,h2,h3'
 
 ## Comment system (Disqus) ##
